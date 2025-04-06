@@ -22,9 +22,8 @@ Welcome to my GitHub! I'm passionate about building and automating cloud-native 
 
 🚀 [Deploying a Netflix Clone on AWS – A DevSecOps Journey with Jenkins](https://netflix-clone-on-kubernetes.hashnode.dev/deploying-a-netflix-clone-on-aws-a-devsecops-journey-with-jenkins)  
 Learn how to build a fully containerized Netflix clone on EKS with a DevSecOps pipeline using Jenkins, Trivy, and Kubernetes.
-
-
-- 🎵 [Automating Spotify Playlist Creation using Terraform](https://managing-spotify-using-terraform.hashnode.dev/automating-spotify-playlist-creation-using-terraform)
+🎵 [Automating Spotify Playlist Creation Using Terraform](https://managing-spotify-using-terraform.hashnode.dev/automating-spotify-playlist-creation-using-terraform)  
+Explore how to use Terraform in a fun way — by automating Spotify playlists using the Spotify Web API. A creative take on Infrastructure as Code!
 - 🐘 PostgreSQL + Node.js App Deployment using Docker Compose
 - ☁️ Amazon EKS Setup from Scratch using AWS Console
 
