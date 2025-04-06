@@ -35,3 +35,38 @@ Welcome to my GitHub! I'm passionate about building and automating cloud-native 
 
 🔄 _Actively exploring DevOps scenarios & sharing content!_  
 💬 Feel free to connect or collaborate on open-source DevOps projects!
+
+
+
+# Hey there! 👋 I'm Pavan Adusumalli
+
+🚀 Cloud & DevOps Enthusiast | AWS | Terraform | Kubernetes | CI/CD  
+🔍 Sharing hands-on labs, real-world DevOps projects & AWS use-cases  
+✍️ Blogging on [Hashnode](https://hashnode.com/@pavanadusumalli3) | [LinkedIn](https://www.linkedin.com/in/naga-pavan-adusumalli/)
+
+---
+
+### 🔧 Tech Stack
+
+- **Cloud**: AWS (EKS, EC2, S3, VPC, IAM)
+- **IaC**: Terraform
+- **Containers**: Docker, Kubernetes
+- **CI/CD**: GitHub Actions, Jenkins
+- **Infra**: Linux, Nginx, EC2, Route53
+
+---
+
+### 📘 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*(Coming soon: Auto-updated with latest Hashnode blogs!)*
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/naga-pavan-adusumalli/)
+- 🌐 [Hashnode](https://hashnode.com/@pavanadusumalli3)
+- 🧠 GitHub Projects: Real-world DevOps Labs Coming Soon!
+
