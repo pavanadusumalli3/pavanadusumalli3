@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning [Technology/Skill]
 - 👯 I’m looking to collaborate on [Project/Idea]
 - 💬 Ask me about DevOps & AWS
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Your Email](mailto:pavanadusumalli3@gmail.com)
 
 ### Connect with me:
 
