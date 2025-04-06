@@ -1,21 +1,37 @@
-# Hi , I'm Pavan 👋
+# 👋 Hi, I'm Pavan Adusumalli
 
-### A passionate DevOps Engineer from India
+### 🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Kubernetes | CI/CD | Docker
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Idea]
-- 💬 Ask me about DevOps & AWS
-- 📫 How to reach me: [Your Email](mailto:pavanadusumalli3@gmail.com)
+Welcome to my GitHub! I'm passionate about building and automating cloud-native infrastructure. I enjoy creating scalable systems using Infrastructure as Code (IaC) tools and sharing practical content around DevOps and Cloud on platforms like LinkedIn and Hashnode.
 
-### Connect with me:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](your-twitter-url)
+### 🛠️ Tools & Technologies
 
-### Languages and Tools:
+- ☁️ **Cloud**: AWS (EC2, EKS, S3, IAM)
+- 🛠️ **IaC**: Terraform, AWS CloudFormation
+- 🐳 **Containers**: Docker, Kubernetes
+- 🔁 **CI/CD**: GitHub Actions, Jenkins
+- 💻 **Languages**: Bash, Python, Node.js
+- 🔐 **Security & IAM**: AWS IAM, Secrets Manager
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+---
+
+### 📚 Latest Projects
+
+- 🎵 [Automating Spotify Playlist Creation using Terraform](https://managing-spotify-using-terraform.hashnode.dev/automating-spotify-playlist-creation-using-terraform)
+- 🐘 PostgreSQL + Node.js App Deployment using Docker Compose
+- ☁️ Amazon EKS Setup from Scratch using AWS Console
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/naga-pavan-adusumalli/)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode&style=flat-square)](https://managing-spotify-using-terraform.hashnode.dev/)  
+📫 Email: **pavanadusumalli3@gmail.com**
+
+---
+
+🔄 _Actively exploring DevOps scenarios & sharing content!_  
+💬 Feel free to connect or collaborate on open-source DevOps projects!
