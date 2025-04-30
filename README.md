@@ -25,6 +25,8 @@ Learn how to build a fully containerized Netflix clone on EKS with a DevSecOps p
 
 🎵 [Automating Spotify Playlist Creation Using Terraform](https://managing-spotify-using-terraform.hashnode.dev/automating-spotify-playlist-creation-using-terraform)  
 Explore how to use Terraform in a fun way — by automating Spotify playlists using the Spotify Web API. A creative take on Infrastructure as Code!
+
+https://deploying-yii2-with-dockercicd-ansible.hashnode.dev/devops-assessment-yii2-docker-swarm-cicd-ansible
 - 🐘 PostgreSQL + Node.js App Deployment using Docker Compose
 - ☁️ Amazon EKS Setup from Scratch using AWS Console
 
